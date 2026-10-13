@@ -1,3 +1,5 @@
+[Русская версия](README.ru.md)
+
 # Employee Records and Reporting (C++)
 
 A small Windows-oriented C++ coursework project demonstrating binary employee records, separate command-line utilities, process creation, and report generation.
