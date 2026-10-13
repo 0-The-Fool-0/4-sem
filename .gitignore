@@ -1,0 +1,27 @@
+# CMake build output
+/build/
+/cmake-build-*/
+
+# Visual Studio / native compiler artefacts
+.vs/
+**/x64/
+**/Win32/
+**/Debug/
+**/Release/
+**/*.obj
+**/*.o
+**/*.pdb
+**/*.ilk
+**/*.idb
+**/*.tlog/
+**/*.tlog
+**/*.exe
+**/*.dll
+**/*.lastbuildstate
+**/*.recipe
+**/*.suo
+**/*.vcxproj.user*
+
+# Local editor/OS files
+.DS_Store
+Thumbs.db
